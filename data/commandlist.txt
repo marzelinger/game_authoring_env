@@ -1,0 +1,60 @@
+COMMAND ALIASES ARE IN PARENTHESES, COMMANDS THAT CONTAIN ? or P at the end are accessed by a help page without these
+symbols although they are used with these characters at the end
+
+TURTLE COMMANDS:
+forward (fd)
+back (bk)
+left (lt)
+right (rt)
+setheading (seth)
+towards
+setxy
+goto
+pendown (pd)
+penup (pu)
+showturtle (st)
+hideturtle (ht)
+home
+clearscreen (cs)
+
+TURTLE QUERIES:
+xcor
+ycor
+heading
+pendown (pendown?, pendownp)
+showing (showing?, showingp)
+
+MATH OPERATIONS:
+sum (+)
+difference (-)
+product (*)
+quotient (/)
+remainder (%)
+minus (~)
+random
+sin
+cos
+tan
+atan
+log
+pow
+pi
+
+BOOLEAN OPERATIONS:
+less (less?, lessp)
+greater (greater?, greaterp)
+equal (equal?, equalp)
+notequal (notequal?, notequalp)
+and
+or
+not
+
+VARIABLES, CONTROL STRUCTURES, and USER DEFINED COMMANDS
+make
+set
+repeat
+dotimes
+for
+if
+ifelse
+to

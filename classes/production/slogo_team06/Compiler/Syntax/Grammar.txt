@@ -1,0 +1,4 @@
+ Constant, Variable, Command, List_Start, List_End, Comment, Operator, Sum, Different, Product, Quotient, Remainder, Minus, Random, Sine, Cosine, ArcTangent, Power, SetBackground, SetPenColor, SetPenSize, SetShape, SetPalette, GetPenColor, GetShape, Stamp, ClearStamps, ID, Turtles, Tell,Ask, AskWith, LessThan, GreaterThan, Equal,NotEqual,And,Or,Not,MakeVariable,Repeat,DoTimes,For,If,IfElse, MakeUserInstruction,Forward, Backward, Left, Right,SetHeading,SetTowards,SetPosition,PenDown,PenUp,ShowTurtle,HideTurtle,Home,ClearScreen,XCoordinate,  YCoordinate,Heading,IsPenDown, IsShowing, UserDefined;
+
+
+
